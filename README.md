@@ -1,6 +1,6 @@
-# background-demo1
+# Full Stact Demo
 
-> A Vue.js project
+一个全栈的Demo，前端使用Vue2，服务端使用koa+mySql
 
 ## Build Setup
 
